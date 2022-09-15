@@ -12,7 +12,7 @@ Sample Outputs:
 
 Clear Audio Signal:
 
-https://user-images.githubusercontent.com/98646583/190255068-7e710b8f-41c4-4e21-a782-f9f4bc8f8ba2.mp4
+https://user-images.githubusercontent.com/98646583/190255068-7e710b8f-41c4-4e21-a782-f9f4bc8f8ba2.mp4  https://user-images.githubusercontent.com/98646583/190255147-75d6e140-502a-47af-9594-3ec37dba3002.mp4
 
 Corrupted Audio Signal:
 
