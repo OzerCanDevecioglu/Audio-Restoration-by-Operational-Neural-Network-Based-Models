@@ -12,7 +12,7 @@ Codes: Will be published
 
 ## Dataset
 
-- [TIMIT Acoustic-Phonetic Continuous Speech Corpus](http://2020.icbeb.org/CSPC2020](https://catalog.ldc.upenn.edu/LDC93s1), (TIMIT) dataset is used for training & testing.
+- [TIMIT Acoustic-Phonetic Continuous Speech Corpus](https://catalog.ldc.upenn.edu/LDC93s1), (TIMIT) dataset is used for training & testing.
 
 ## Run
 
