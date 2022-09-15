@@ -27,6 +27,21 @@ https://user-images.githubusercontent.com/98646583/190255270-6ec07655-d81f-449b-
 https://user-images.githubusercontent.com/98646583/190255343-15042da6-57ca-4d9e-a4b8-e764368f3543.mp4
 
 
+https://user-images.githubusercontent.com/98646583/190255068-7e710b8f-41c4-4e21-a782-f9f4bc8f8ba2.mp4
+
+Corrupted Audio Signal:
+
+https://user-images.githubusercontent.com/98646583/190255147-75d6e140-502a-47af-9594-3ec37dba3002.mp4
+
+1st Stage GAN Restored Audio Signal:
+
+https://user-images.githubusercontent.com/98646583/190255270-6ec07655-d81f-449b-8a5a-df66ae828ee4.mp4
+
+2nd Stage GAN Restored Audio Signal:
+
+https://user-images.githubusercontent.com/98646583/190255343-15042da6-57ca-4d9e-a4b8-e764368f3543.mp4
+
+
 
 
 
