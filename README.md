@@ -96,7 +96,7 @@ https://user-images.githubusercontent.com/98646583/190355365-74b56903-ee2b-406b-
 
 2nd Stage GAN Restored Audio Signal:
 
-                https://user-images.githubusercontent.com/98646583/190355389-3c2a87e3-8130-40ef-b1fd-0317db79caeb.mp4
+https://user-images.githubusercontent.com/98646583/190355389-3c2a87e3-8130-40ef-b1fd-0317db79caeb.mp4
 
 ![367](https://user-images.githubusercontent.com/98646583/190354312-dab41532-9d75-4dca-ac07-d3aedc70d422.png)
 
