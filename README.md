@@ -25,7 +25,7 @@ Codes: Will be published
 
 
 ## Sample Outputs
-
+Red: Corrupted Signal, Blue: Restored Output Signals, and Black: Original Clean Signal)
 ![590](https://user-images.githubusercontent.com/98646583/190855440-8714ec75-c7f5-4064-a040-be277324a03e.png)
 
 Clean Audio Signal:
