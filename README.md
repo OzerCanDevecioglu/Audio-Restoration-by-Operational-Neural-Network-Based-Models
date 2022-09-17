@@ -44,6 +44,24 @@ https://user-images.githubusercontent.com/98646583/190855497-bab525dc-fffb-4082-
 
 https://user-images.githubusercontent.com/98646583/190855501-a1eeb6cc-2bdb-42a5-bfe5-bbfc36c85aaa.mp4
 
+![341](https://user-images.githubusercontent.com/98646583/190857076-9617b541-3b8b-4aaa-8a56-b3eda52cfb96.png)
+
+Clean Audio Signal:
+
+https://user-images.githubusercontent.com/98646583/190857140-da5b9a42-e8d9-4cec-b27f-0ed627708ef5.mp4
+
+Corrupted Audio Signal:
+
+https://user-images.githubusercontent.com/98646583/190857134-09fcd497-371e-4fa5-a05b-2dcb95938769.mp4
+
+1st Stage Restored Audio Signal:
+
+https://user-images.githubusercontent.com/98646583/190857115-dcebe3e4-0988-4adf-90f2-e8a79f344780.mp4
+
+2nd Stage Restored Audio Signal:
+
+https://user-images.githubusercontent.com/98646583/190857125-35a9e698-1965-48d8-a1ac-bb6fd2977389.mp4
+
 ![452](https://user-images.githubusercontent.com/98646583/190855653-7647f281-b2e9-4aa1-914f-ba9e5957761b.png)
 
 Clean Audio Signal:
