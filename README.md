@@ -320,17 +320,19 @@ https://user-images.githubusercontent.com/98646583/190873918-0054b924-1989-486e-
 
 Clean Audio Signal:
 
-https://user-images.githubusercontent.com/98646583/190873898-b2894caa-f5a7-4b6b-a5ad-3f5a624cbfc3.mp4
+https://user-images.githubusercontent.com/98646583/190998619-4b518d4a-5c1d-4827-95d7-353c1af123df.mp4
 
 Corrupted Audio Signal:
 
-https://user-images.githubusercontent.com/98646583/190873896-2334dae9-0fba-44f1-b7be-be825847b3e4.mp4
+https://user-images.githubusercontent.com/98646583/190998646-0759d542-1a8d-4113-ae86-3c8f9b6b2ff0.mp4
 
 1st Stage Restored Audio Signal:
 
-https://user-images.githubusercontent.com/98646583/190873894-ea6c59d7-c1bf-4262-900b-fac8f0ac011c.mp4
+https://user-images.githubusercontent.com/98646583/190998709-7dc01c81-aea8-4922-a559-3cc2c7f997b6.mp4
 
 2nd Stage Restored Audio Signal:
+
+https://user-images.githubusercontent.com/98646583/190998773-5bc9137b-8033-4f98-a1cc-f152faeca59a.mp4
 
 ![541](https://user-images.githubusercontent.com/98646583/190997774-b476dfbe-2433-43e6-a88d-b7eed67c11f7.png)
 
